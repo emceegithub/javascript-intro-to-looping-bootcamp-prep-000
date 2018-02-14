@@ -5,3 +5,6 @@ function forLoop(array) {
   return array
 }
 
+whileLoop(n) {
+  while
+}
